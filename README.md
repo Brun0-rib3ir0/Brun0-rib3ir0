@@ -1,10 +1,10 @@
 # Olá, eu sou Bruno Ribeiro!
 
-🎓 Estudante de Ciência da Computação, **4º período**
-☕ Focado em **back-end com Java e Spring Boot**
-🌱 Aprendendo a construir APIs REST e a empacotar aplicações com Docker
-🔭 Buscando oportunidade de **estágio em desenvolvimento back-end**
-📫 Fale comigo: [acad3mic.brun0rib3ir0@gmail.com](mailto:acad3mic.brun0rib3ir0@gmail.com)
+- Estudante de Ciência da Computação, **4º período**
+- Focado em **back-end com Java e Spring Boot**
+- Aprendendo a construir APIs REST e a empacotar aplicações com Docker
+- Buscando oportunidade de **estágio em desenvolvimento back-end**
+- Fale comigo: [acad3mic.brun0rib3ir0@gmail.com](mailto:acad3mic.brun0rib3ir0@gmail.com)
 
 ---
 
