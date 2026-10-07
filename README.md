@@ -1,4 +1,4 @@
-# Olá, eu sou o [SEU NOME] 👋
+# Olá, eu sou Bruno Ribeiro!
 
 🎓 Estudante de Ciência da Computação, **4º período**
 ☕ Focado em **back-end com Java e Spring Boot**
