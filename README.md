@@ -4,7 +4,7 @@
 ☕ Focado em **back-end com Java e Spring Boot**
 🌱 Aprendendo a construir APIs REST e a empacotar aplicações com Docker
 🔭 Buscando oportunidade de **estágio em desenvolvimento back-end**
-📫 Fale comigo: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+📫 Fale comigo: [acad3mic.brun0rib3ir0@gmail.com](mailto:acad3mic.brun0rib3ir0@gmail.com)
 
 ---
 
@@ -32,8 +32,8 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Brun0-rib3ir0&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brun0-rib3ir0&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
 ---
@@ -57,6 +57,4 @@ Confira os projetos fixados no meu perfil. Estou construindo aos poucos:
 ---
 
 ## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINKEDIN/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:acad3mic.brun0rib3ir0@gmail.com)
